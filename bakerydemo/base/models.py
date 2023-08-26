@@ -479,7 +479,7 @@ class SiteSettings(BaseSiteSetting):
         verbose_name="Title suffix",
         max_length=255,
         help_text="The suffix for the title meta tag e.g. ' | The Wagtail Bakery'",
-        default="The Wagtail Bakery",
+        default="Aurélie Clodic",
     )
 
     panels = [
