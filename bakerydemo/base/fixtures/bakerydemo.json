@@ -2294,8 +2294,8 @@
       "locked": false,
       "locked_at": null,
       "locked_by": null,
-      "title": "Welcome to the Wagtail Bakery!",
-      "draft_title": "Welcome to the Wagtail Bakery!",
+      "title": "Welcome to My Website!",
+      "draft_title": "Welcome to My Website!",
       "slug": "home",
       "content_type": ["base", "homepage"],
       "url_path": "/home/",
@@ -2334,7 +2334,7 @@
       "content_type": ["blog", "blogindexpage"],
       "url_path": "/home/blog/",
       "owner": null,
-      "seo_title": "Wagtail Bakeries Blog",
+      "seo_title": "Notre Blog",
       "show_in_menus": true,
       "search_description": "",
       "latest_revision_created_at": "2019-04-23T20:04:30.432Z",
@@ -4261,7 +4261,7 @@
     "fields": {
       "to_address": "us@example.com",
       "from_address": "you@example.com",
-      "subject": "Contact message from Wagtail Demo site",
+      "subject": "Contact message from our website",
       "image": null,
       "body": "[{\"type\": \"paragraph_block\", \"value\": \"<p>We'd love to hear from you! Drop us a line to let us know what you liked or didn't like about your recent store visit, or if you have comments or questions about this site.\\u00a0</p><p>This form is for demo purposes only - email goes nowhere. Developers: \\u00a0Edit the \\\"To Address\\\" field in the Form object in the Wagtail admin, and see the Email notes in the project readme to make your instance send live email.</p>\", \"id\": \"25a48aa0-7b9b-47a9-ac24-bce39baf0a6c\"}]",
       "thank_you_text": "<p>Thanks!</p><p>We've received your message and will get back to you shortly.</p>"
@@ -4303,7 +4303,7 @@
     "fields": {
       "introduction": "Things to know about this demo site",
       "image": 41,
-      "body": "[{\"type\": \"paragraph_block\", \"value\": \"<h2>Welcome to the Wagtail Demo Site!</h2><p>If you've gotten this far, congratulations - you're running an instance of a killer content management system written for and on top of Django, <i>the framework for perfectionists with deadlines.</i></p><p>What does Wagtail get you that Django alone does not?\\u00a0</p><p></p><ul><li>Focus on content creators/managers, rather than developers (but developer-friendly!)</li><li>\\\"Page-centric\\\" content modeling</li><li>Beautiful, modern, intuitive user interface optimized for content people</li><li>Super-powerful hierarchical content management (\\\"content trees\\\")</li><li>User- and group-based permissions system attached to content hierarchies</li><li>Flexible image resizing with a ton of image display helpers</li><li>Innovative \\\"<a href=\\\"https://torchbox.com/blog/rich-text-fields-and-faster-horses/\\\">StreamFields</a>\\\" as an alternative to traditional \\\"anything goes\\\" rich text fields</li><li>Intuitive choosers for embedded Pages, Images, Documents and other content</li><li>Native integration with ElasticSearch to help you build powerful search features</li><li>Template tags to help create image renditions, smart links, and to navigate content trees</li></ul><p>If you're new to Wagtail, there are two primary paths to learning:</p><p></p><ul><li>The source code that powers this demo site</li><li>The official <a href=\\\"https://docs.wagtail.org/en/stable/getting_started/index.html\\\">tutorial</a></li></ul><p></p><p></p>\", \"id\": \"c6629b9b-3e70-4e30-a00c-b1ab878c8df9\"}]"
+      "body": "[{\"type\": \"paragraph_block\", \"value\": \"<h2>Welcome to Our Demo Site!</h2><p>If you've gotten this far, congratulations - you're running an instance of a killer content management system written for and on top of Django, <i>the framework for perfectionists with deadlines.</i></p><p>What does Wagtail get you that Django alone does not?\\u00a0</p><p></p><ul><li>Focus on content creators/managers, rather than developers (but developer-friendly!)</li><li>\\\"Page-centric\\\" content modeling</li><li>Beautiful, modern, intuitive user interface optimized for content people</li><li>Super-powerful hierarchical content management (\\\"content trees\\\")</li><li>User- and group-based permissions system attached to content hierarchies</li><li>Flexible image resizing with a ton of image display helpers</li><li>Innovative \\\"<a href=\\\"https://torchbox.com/blog/rich-text-fields-and-faster-horses/\\\">StreamFields</a>\\\" as an alternative to traditional \\\"anything goes\\\" rich text fields</li><li>Intuitive choosers for embedded Pages, Images, Documents and other content</li><li>Native integration with ElasticSearch to help you build powerful search features</li><li>Template tags to help create image renditions, smart links, and to navigate content trees</li></ul><p>If you're new to Wagtail, there are two primary paths to learning:</p><p></p><ul><li>The source code that powers this demo site</li><li>The official <a href=\\\"https://docs.wagtail.org/en/stable/getting_started/index.html\\\">tutorial</a></li></ul><p></p><p></p>\", \"id\": \"c6629b9b-3e70-4e30-a00c-b1ab878c8df9\"}]"
     }
   },
   {
